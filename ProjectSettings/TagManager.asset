@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AOE
+  - MainTank
+  - Detector
+  - Boss
+  - TRDetector
+  - Illustration
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerAndEnemy
+  - Stage
+  - ADD
+  - Listenser
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BattleGround
+    uniqueID: 847158665
+    locked: 0
+  - name: Mechanics&AOE_underplayer
+    uniqueID: 1606603427
+    locked: 0
+  - name: PlayerAndBoss
+    uniqueID: 2096721507
+    locked: 0
+  - name: Mechanics&AOE_aboveplayer
+    uniqueID: 931440273
+    locked: 0
+  - name: Effect
+    uniqueID: 354355449
+    locked: 0
+  - name: UI
+    uniqueID: 2506645957
+    locked: 0
