@@ -1,0 +1,1111 @@
+fileFormatVersion: 2
+guid: f2497e86fbb1a5c40910a068dd4f2cb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5822217779133800817
+    second: lanceEffect_0
+  - first:
+      213: 1849249162733868212
+    second: lanceEffect_1
+  - first:
+      213: -6649168719931349242
+    second: lanceEffect_2
+  - first:
+      213: 4282639021032267675
+    second: lanceEffect_3
+  - first:
+      213: -2121639220704679826
+    second: lanceEffect_4
+  - first:
+      213: -1058616649425718323
+    second: lanceEffect_5
+  - first:
+      213: 835512616664883111
+    second: lanceEffect_6
+  - first:
+      213: -6046847089218151576
+    second: lanceEffect_7
+  - first:
+      213: -5376290304462760267
+    second: lanceEffect_8
+  - first:
+      213: -8774137703121395720
+    second: lanceEffect_9
+  - first:
+      213: -6961333542273136327
+    second: lanceEffect_10
+  - first:
+      213: -3192466411447040962
+    second: lanceEffect_11
+  - first:
+      213: -6134859294324576424
+    second: lanceEffect_12
+  - first:
+      213: 7318917258466391852
+    second: lanceEffect_13
+  - first:
+      213: 188412779319095583
+    second: lanceEffect_14
+  - first:
+      213: 4155486753018408374
+    second: lanceEffect_15
+  - first:
+      213: 6659759652372614313
+    second: lanceEffect_16
+  - first:
+      213: -4945434137984599247
+    second: lanceEffect_17
+  - first:
+      213: -531356940531578602
+    second: lanceEffect_18
+  - first:
+      213: -4763817705472039322
+    second: lanceEffect_19
+  - first:
+      213: 8576183637049591386
+    second: lanceEffect_20
+  - first:
+      213: 5328283714953884734
+    second: lanceEffect_21
+  - first:
+      213: -8427476035222334067
+    second: lanceEffect_22
+  - first:
+      213: -2769680105927069749
+    second: lanceEffect_23
+  - first:
+      213: 3164317055022961882
+    second: lanceEffect_24
+  - first:
+      213: -3169014232671685042
+    second: lanceEffect_25
+  - first:
+      213: -6749782330071985406
+    second: lanceEffect_26
+  - first:
+      213: 4755584991464855300
+    second: lanceEffect_27
+  - first:
+      213: -5354968860790447490
+    second: lanceEffect_28
+  - first:
+      213: -655635910698938818
+    second: lanceEffect_29
+  - first:
+      213: -5016551485853049859
+    second: lanceEffect_30
+  - first:
+      213: -6164758267609859892
+    second: lanceEffect_31
+  - first:
+      213: 7694531876426797979
+    second: lanceEffect_32
+  - first:
+      213: 2709946098255732389
+    second: lanceEffect_33
+  - first:
+      213: -4544335014781812035
+    second: lanceEffect_34
+  - first:
+      213: -3983691649078134377
+    second: lanceEffect_35
+  - first:
+      213: -4160355896155968552
+    second: lanceEffect_36
+  - first:
+      213: 2043794623647393062
+    second: lanceEffect_37
+  - first:
+      213: 1806591212844366312
+    second: lanceEffect_38
+  - first:
+      213: -2048116628364476894
+    second: lanceEffect_39
+  - first:
+      213: -4998539614909299529
+    second: lanceEffect_40
+  - first:
+      213: -5137406819329362080
+    second: lanceEffect_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lanceEffect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2361.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209c781bdf97e864a9e191666988d5e8
+      internalID: 5822217779133800817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ae79068d0b860458b26239cd7da8d3
+      internalID: 1849249162733868212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2247.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98783a49b4ba779439bc6996ae08bcb4
+      internalID: -6649168719931349242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2190.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdac87f636f175448a04f5e4be23762
+      internalID: 4282639021032267675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2133.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9be0f8ca71a55a4fa9a57bf814c25fe
+      internalID: -2121639220704679826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2076.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5980e1d14be93439f7533705c14c2f
+      internalID: -1058616649425718323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2019.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7838fc46c6f88a440a3ac9fc0af58057
+      internalID: 835512616664883111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1962.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d660b217c165cd408da6f00e042b1c0
+      internalID: -6046847089218151576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1905.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71e486e85fb88d40b01e187e81f4b2a
+      internalID: -5376290304462760267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a656d7d0e1f940b49b841b45cb8ad2f9
+      internalID: -8774137703121395720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1791.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e449503a8e8534db6b46e9c572a7df
+      internalID: -6961333542273136327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1734.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f160ee836ae0743a6e2a5e7b776e68
+      internalID: -3192466411447040962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1677.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e10f0996b2984aaccf55bab934ff7
+      internalID: -6134859294324576424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74b2b34fb70ce3458ad55683a3b6661
+      internalID: 7318917258466391852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1563.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ca3a60994f786458d6600c97ca2ba3
+      internalID: 188412779319095583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5c3c2f4f5e89f469ee02d0447fa11a
+      internalID: 4155486753018408374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1449.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a8b290921ea3648a052c51fb41e26f
+      internalID: 6659759652372614313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532deb1a759b0eb4fbb3b7680a0d728a
+      internalID: -4945434137984599247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1335.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2d4f0eced03304ebc61e78abd605d7
+      internalID: -531356940531578602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1278.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b967b773a9d5449a7c7e8e5d616566
+      internalID: -4763817705472039322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1221.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9a9d34982ee0240891f7f84b091ead
+      internalID: 8576183637049591386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bc4938816ee854b9f5c089a49cdfdf
+      internalID: 5328283714953884734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1107.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eda81cff7a5a264db16c8c0e49e13c4
+      internalID: -8427476035222334067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dc2bf528374264e8a47da3adb8dfa3
+      internalID: -2769680105927069749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02db6547454dc842866e5e50da886ef
+      internalID: 3164317055022961882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3f09060814bfb44ac3b02f00528433
+      internalID: -3169014232671685042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90256e45950e21a4486de46e75f312d0
+      internalID: -6749782330071985406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4298b51b0969ee4091c1d128dca274a
+      internalID: 4755584991464855300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f21b23c1f3e2b488e5d3db284f2b16
+      internalID: -5354968860790447490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65abd9c3affed5543994841d3842a520
+      internalID: -655635910698938818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c51c121cf01154cae4982ca8bd22c2
+      internalID: -5016551485853049859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa35065c1f3c9f4aa7fcef35ba29b15
+      internalID: -6164758267609859892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537.4048
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4443621cfd8f9f8428507ae56c5cb679
+      internalID: 7694531876426797979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480.40475
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee04cfd75bf62d42b17913d30bd5a98
+      internalID: 2709946098255732389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423.40475
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69050d162e056be41a750087e08e85d4
+      internalID: -4544335014781812035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366.40475
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2a3e8f0fd895b499fad7f997f20430
+      internalID: -3983691649078134377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309.40475
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d400269ae74132147953a1317f2f8b18
+      internalID: -4160355896155968552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252.40475
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81de97db9ba4eb64bb51d289b7617772
+      internalID: 2043794623647393062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195.40475
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fe91b94229a7b498631fd6d63006e8
+      internalID: 1806591212844366312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138.40475
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fc30c8fd797154d924049c91baf769
+      internalID: -2048116628364476894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81.40476
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8108f1e1ee49774d8a78d5ba541f340
+      internalID: -4998539614909299529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanceEffect_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24.404762
+        width: 50
+        height: 57.595238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6403093aa6e4504da189bbe4ec454af
+      internalID: -5137406819329362080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
